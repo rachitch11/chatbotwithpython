@@ -1,3 +1,4 @@
 # chatbotwithpython
-this is a chatbot from which you can ask any question about chatbots. (any means if the question is present in its .txt file.)
-simple chatbot with no complexity 
+This is a simple chatbot built with Python.
+You can ask it any question about chatbots (as long as the question is included in its .txt file).
+A basic chatbot with no added complexity.
